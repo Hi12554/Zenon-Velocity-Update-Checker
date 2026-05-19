@@ -2,5 +2,5 @@
   "version": "1.1.9",
   "downloadUrl": "https://www.dropbox.com/scl/fo/c230h7nb3cvf2faivk1bf/ABLd9HsNeJAzmRqyhuEXEwY?rlkey=nelt0rkxo5gn2owty7l06pmdx&st=h5apwuzm&dl=0",
   "notes": "Critical security and stability fixes.",
-  "force": false
+  "force": true
 }
