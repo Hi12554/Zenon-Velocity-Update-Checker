@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "downloadUrl": "https://www.dropbox.com/scl/fo/c230h7nb3cvf2faivk1bf/ABLd9HsNeJAzmRqyhuEXEwY?rlkey=nelt0rkxo5gn2owty7l06pmdx&st=h5apwuzm&dl=0",
-  "notes": "Critical security and stability fixes.",
+  "version": "1.2.0",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/rpxlwaqynaiuq55utjq86/Zenon-Executor-v1.2.0.zip?rlkey=mdiqai1qcgf9jq1xavvcmuw8u&st=tc5q1tyk&dl=1",
+  "notes": "Now using new Zenon Velocity API, Ability to reorder tabs and pin tabs",
   "force": true
 }
